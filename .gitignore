@@ -1,4 +1,13 @@
-.idea
-/node_modules
-/dist
 .vscode
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
